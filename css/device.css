@@ -18,4 +18,12 @@
     .why-us .col-right{
         margin: 0 auto;
     }
+    .text-center{
+        margin-bottom: 0px;
+    }
+    .why-us{
+        background-color: rgb(31,31,31);
+        margin-bottom: 0px;
+        padding: 3rem 0rem;
+    }
 }
