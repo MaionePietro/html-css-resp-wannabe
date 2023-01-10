@@ -1,0 +1,20 @@
+.container{
+    max-width: 480px;
+    width: 100%;
+}
+
+
+/* MOBILE */
+@media only screen and (max-width: 480px){
+    .row{
+        flex-wrap: wrap;
+    }
+    .lessons .col,
+    .steps .col,
+    .why-us .col-left{
+        width: 100%;
+    }
+    .why-us .col-right{
+        margin: 0 auto;
+    }
+}
